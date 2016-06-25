@@ -1,0 +1,54 @@
+body {
+ font-size: 1.6rem;
+ color: aqua;
+ background-color: black;
+ height: 100px;
+ background-image: url(../image/Fast-Food-2.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#rj {
+ font-family: 'Poiret One', cursive;
+ font-weight: 400;
+ color: darkviolet;
+ font-size: 60px;
+}
+h2 {
+ color: white;
+ width: 500px;
+ color: wheat;
+ margin-left: 400px;
+ font-size: 50px;
+ padding-bottom: 10px;
+}
+nav {
+ text-align: center;
+ background-color: red;
+}
+#menu {
+ display: inline-block;
+ text-align: center;
+ padding-right: 90px;
+ padding-bottom: 50px;
+ font-family: cursive;
+ background-image: url(../image/hotel.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+width: 1310px;
+}
+p {
+ font-style: italic;
+ color: blue;
+ text-align: center;
+}
+#location {
+ align-content: center;
+ padding-right: 20px;
+ text-align: center;
+}
+#contacts{
+ text-align: center;
+}
+#about-us{
+ text-align: center;
+}
